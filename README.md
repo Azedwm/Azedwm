@@ -24,8 +24,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=azedwm&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="412px"/>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=azedwm&icon=0&color=1)](https://visitcount.itsvg.in)
